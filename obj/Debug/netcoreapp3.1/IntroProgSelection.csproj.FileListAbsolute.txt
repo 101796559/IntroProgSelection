@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/bin/Debug/netcoreapp3.1/IntroProgSelection.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/bin/Debug/netcoreapp3.1/IntroProgSelection.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/bin/Debug/netcoreapp3.1/IntroProgSelection.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/bin/Debug/netcoreapp3.1/IntroProgSelection.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/bin/Debug/netcoreapp3.1/IntroProgSelection.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/obj/Debug/netcoreapp3.1/IntroProgSelection.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/obj/Debug/netcoreapp3.1/IntroProgSelection.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/obj/Debug/netcoreapp3.1/IntroProgSelection.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/obj/Debug/netcoreapp3.1/IntroProgSelection.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/IntroProgSelection/obj/Debug/netcoreapp3.1/IntroProgSelection.pdb

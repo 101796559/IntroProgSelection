@@ -6,7 +6,17 @@ namespace IntroProgSelection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Your age: ");
+            int age = Convert.ToInt32(Console.ReadLine());
+
+            int legalAge = 18;
+
+            if (age >= legalAge) {
+                Console.WriteLine("DRINK DRINK DRINK");
+            }
+            else {
+                Console.WriteLine("DRINK DRINK DRINK........then get in trouble");
+            }
         }
     }
 }
